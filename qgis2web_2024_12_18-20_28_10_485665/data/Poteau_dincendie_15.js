@@ -1,0 +1,1 @@
+var json_Poteau_dincendie_15 = {"type":"FeatureCollection","name":"Poteau_dincendie_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-1.552607318046263,12.384580477517593]}}]}
